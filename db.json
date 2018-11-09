@@ -1,6 +1,6 @@
 {
   "board": [
-    { "id": 1, "title": "j'ai un petit p...", "author": "francois ross" }
+    { "id": 1, "title": "j'ai un petit p...", "author": "francois ross" },
     { "id": 2, "title": "j'ai un gros p...", "author": "martin benjamin" }
   ],
   "comments": [
