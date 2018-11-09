@@ -1,8 +1,30 @@
 {
-  "board": [
-    { "id": 1, "title": "j'ai un petit p...", "author": "francois ross" },
-    { "id": 2, "title": "j'ai un gros p...", "author": "martin benjamin" }
-  ],
+  "Board" {
+    "getBoardDefinition" {
+      "pSn": "FOC22331QGL",
+      "pNo": "73-100755-04",
+      "pVersion":"A0",
+      "wo": "002398007792",
+      "panelBarcode": "FOC22331QGL",
+      "numberOfCircuits": 4,
+      "circuits": [{
+        "circuitSn": "FOC22331QGL01",
+        "imageId": "1"
+      },
+      {
+        "circuitSn": "FOC22331QGL02",
+        "imageId": "2"
+      },
+      {
+        "circuitSn": "FOC22331QGL03",
+        "imageId": "3"
+      },
+      {
+        "circuitSn": "FOC22331QGL04",
+        "imageId": "4"
+      }]
+    }
+  }
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
