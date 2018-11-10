@@ -1,6 +1,5 @@
 {
-	"Board": {
-		"getBoardDefinition": [{
+	"Board": [{
 			"pSn": "FOC22331QGL",
 			"pNo": "73-100755-04",
 			"pVersion": "A0",
@@ -24,8 +23,7 @@
 					"imageId": "4"
 				}
 			]
-		}]
-	},
+	}],
 	"comments": [{
 		"id": 1,
 		"body": "some comment",
